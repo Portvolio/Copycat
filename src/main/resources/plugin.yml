@@ -1,0 +1,6 @@
+name: Copycat
+version: ${project.version}
+main: wtf.violet.portvolio.copycat.Copycat
+api-version: 1.16
+authors: [violetwtf]
+website: https://violet.wtf
